@@ -10,6 +10,7 @@ You are hired by one of the leading news channels CNBE who wants to analyze rece
 
 **Data Preparation:**
 1.3 Encode the data (having string values) for Modelling. Is Scaling necessary here or not? Data Split: Split the data into train and test (70:30). 
+
 **Modeling:**
 1.4 Apply Logistic Regression and LDA (linear discriminant analysis). 
 1.5 Apply KNN Model and Naïve Bayes Model. Interpret the results.
